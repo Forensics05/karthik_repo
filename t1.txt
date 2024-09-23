@@ -1,0 +1,3 @@
+a="Hello"
+b="Boy"
+print(a+b)
